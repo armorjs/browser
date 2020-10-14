@@ -26,9 +26,7 @@
   },
   "homepage": "https://github.com/armorjs/headless#readme",
   "dependencies": {
-    "@armorjs/key-store": "^0.0.4",
-    "@toreda/map": "^0.2.0",
-    "@toreda/strong-types": "https://github.com/toreda/strong-types",
+    "@toreda/strong-types": "^0.9.0",
     "axios": "^0.19.2",
     "jsdom": "^16.2.2",
     "vm2": "^3.9.2"
